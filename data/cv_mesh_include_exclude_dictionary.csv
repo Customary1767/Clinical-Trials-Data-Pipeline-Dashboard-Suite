@@ -1,0 +1,37 @@
+Term,Use,Section,Exclude reason
+Coronary artery disease / ischemic heart disease,True cardiovascular,Include,
+Heart failure,True cardiovascular,Include,
+Cardiomyopathy,True cardiovascular,Include,
+Arrhythmias,True cardiovascular,Include,
+Valvular heart disease,True cardiovascular,Include,
+Congenital heart disease,True cardiovascular,Include,
+Cerebrovascular disease / stroke,True cardiovascular,Include,
+Peripheral arterial disease,True cardiovascular,Include,
+Aortic disease,True cardiovascular,Include,
+Venous thromboembolism / pulmonary embolism,True cardiovascular,Include,
+Hypertension,True cardiovascular/vascular,Include,
+"Cardiovascular infections (e.g., endocarditis)",True cardiovascular,Include,
+Multiple myeloma,,Exclude,Hematologic malignancy
+Waldenström macroglobulinemia,,Exclude,Hematologic malignancy
+Cryoglobulinemia,,Exclude,Systemic/hematologic
+Ehlers-Danlos syndrome,,Exclude,Connective tissue disorder
+Scurvy,,Exclude,Nutritional deficiency
+Hereditary hemorrhagic telangiectasia,,Exclude,Systemic vascular disorder
+Amyloidosis,,Exclude,Systemic protein deposition disorder
+Vasculitides,,Exclude,Systemic inflammatory disorders
+Connective tissue disorders,,Exclude,Systemic
+Anemias,,Exclude,Hematologic
+Cardiovascular Diseases,True cardiovascular,Include,
+Atherosclerotic Cardiovascular Disease,True cardiovascular,Include,
+Hypercholesterolemia,True cardiovascular,Include,
+Cardiac Disease,True cardiovascular,Include,
+Cardiovascular Disease,True cardiovascular,Include,
+Peripheral Artery Disease,True cardiovascular,Include,
+Atherosclerotic Cardiovascular Disease (ASCVD),True cardiovascular,Include,
+Heart Diseases,True cardiovascular,Include,
+Dyslipidemias,True cardiovascular,Include,
+Hypercholesterolaemia,True cardiovascular,Include,
+High Cholesterol,True cardiovascular,Include,
+Familial Hypercholesterolemia,True cardiovascular,Include,
+Sudden Cardiac Arrest,True cardiovascular,Include,
+Cardiovascular Risk,True cardiovascular,Include,

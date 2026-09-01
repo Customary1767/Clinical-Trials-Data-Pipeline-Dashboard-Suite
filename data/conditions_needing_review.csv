@@ -1,0 +1,960 @@
+conditions,count
+Diabetic Foot Ulcer,52
+Diabetic Retinopathy,52
+Hereditary Angioedema,40
+Fabry Disease,39
+Diabetic Macular Edema,31
+Hereditary Angioedema (HAE),26
+Venous Leg Ulcer,24
+Intracranial Aneurysm,18
+Diabetic Foot,15
+Waldenstrom Macroglobulinemia,14
+Retinal Vein Occlusion,14
+Healthy Volunteers,12
+Macular Edema,12
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis,11
+Diabetic Foot Ulcer (DFU),11
+Obesity,10
+Neovascular Age-related Macular Degeneration,9
+Systemic Lupus Erythematosus (SLE),9
+Venous Leg Ulcer (VLU),9
+Coagulation Disorder,8
+Diabetes,8
+Anti-neutrophil Cytoplasmic Antibody-associated Vasculitis,8
+Cardiogenic Shock,8
+Alagille Syndrome,8
+Intermittent Claudication,8
+Pressure Ulcer,7
+Follicular Lymphoma,7
+Vascular Diseases,7
+Turner Syndrome,7
+Ulcer Foot,7
+Systemic Sclerosis,7
+Thrombosis,6
+Eosinophilic Granulomatosis With Polyangiitis,6
+Diabetes Mellitus,6
+Aneurysm,6
+Mantle Cell Lymphoma,6
+Hereditary Angioedema - Type 1,6
+Hereditary Angioedema - Type 2,6
+Ulcer,6
+Antiphospholipid Syndrome (APS),6
+Chronic Kidney Disease,5
+Pseudoxanthoma Elasticum,5
+Branch Retinal Vein Occlusion,5
+Sjogren's Syndrome,5
+Marginal Zone Lymphoma,5
+Mantle Cell Lymphoma (MCL),5
+Marginal Zone Lymphoma (MZL),5
+Follicular Lymphoma (FL),5
+HAE,5
+Angioedema,5
+Wound Heal,5
+Non-healing Wound,5
+Diabetic Retinopathy (DR),5
+ANCA Associated Vasculitis,5
+Idiopathic Inflammatory Myopathies,5
+Inflammatory Myopathy,5
+DFU,5
+Type 2 Diabetes Mellitus,4
+Healthy Participants,4
+Vasculitis,4
+Plasma Cell Myeloma,4
+SLE (Systemic Lupus),4
+Autoimmune Diseases,4
+Hypoxic-Ischemic Encephalopathy,4
+MSA - Multiple System Atrophy,4
+Chronic Lymphocytic Leukemia,4
+Chronic Lymphocytic Leukemia (CLL),4
+Ischemia-reperfusion Injury,4
+Hemophilia A,4
+Diabetic Macular Edema (DME),4
+"Foot Ulcer, Diabetic",4
+Critical Limb Ischemia,4
+Wound,4
+Hereditary Angioedema Type I,4
+Hereditary Angioedema Type II,4
+Hereditary Angioedema Types I and II,4
+Hereditary Angioedema Attack,4
+Hereditary Angioedema With C1 Esterase Inhibitor Deficiency,4
+C1 Esterase Inhibitor Deficiency,4
+C1 Inhibitor Deficiency,4
+Giant Cell Arteritis,4
+Ataxia Telangiectasia,4
+Overweight,4
+Coagulation Defect; Bleeding,4
+Macular Degeneration,4
+Danon Disease,4
+Trauma,4
+Lipoprotein Disorder,4
+Healthy,4
+Asthma,4
+Carotid Artery Stenosis,4
+Systemic Sclerosis (SSc),4
+Venous Ulcer,4
+Arteriovenous Fistula,3
+Arterial Occlusive Diseases,3
+Central Retinal Vein Occlusion,3
+Immunoglobulin A Nephropathy,3
+Patent Ductus Arteriosus,3
+Hemorrhoids,3
+BRVO - Branch Retinal Vein Occlusion,3
+Churg-Strauss Syndrome,3
+Vascular Aneurysm,3
+Noonan Syndrome,3
+Neonatal Encephalopathy,3
+Embolism and Thrombosis,3
+Mitochondrial Diseases,3
+Diffuse Large B-cell Lymphoma (DLBCL),3
+Von Hippel-Lindau Disease,3
+Multiple System Atrophy,3
+Magnetic Resonance Imaging,3
+Blood Loss Massive,3
+Foot Ulcer,3
+"Dementia, Vascular",3
+Primary Ciliary Dyskinesia,3
+Retinal Disease,3
+Retinal Degeneration,3
+Eye Diseases,3
+Intracerebral Hemorrhage,3
+Lupus Nephritis,3
+Behçet's Disease,3
+Pneumothorax,3
+Pleural Effusion,3
+Cardiomegaly,3
+Consolidation,3
+Atelectasis,3
+Carotid Artery Diseases,3
+Intracranial Aneurysms,3
+Venous Stasis,3
+Aneurysm Thoracic,3
+Dissection of Thoracic Aorta,3
+Progressive Familial Intrahepatic Cholestasis,3
+Diabetic Eye Problems,3
+Idiopathic Short Stature,3
+Aneurysm Cerebral,3
+Leg Ulcer,3
+Surgical Wound,3
+Hemorrhage,3
+"Diabetes Mellitus, Type 2",3
+Behçet Disease,3
+Lymphoplasmacytic Lymphoma,3
+DLBCL,3
+Venous Stasis Ulcer,3
+Patent Foramen Ovale,3
+Ulcer Venous,3
+Aneurysmal Subarachnoid Hemorrhage (aSAH),3
+Age-Related Macular Degeneration,3
+Systemic Lupus Erythematosus,3
+Lupus Nephritis (LN),3
+Diabetic Foot Ulcers (DFUs),3
+Femoropopliteal Artery Disease,3
+Coagulation,3
+"Pressure Ulcers, Bedsores, Decubitus Ulcer",3
+Venous Leg,3
+Venous Leg Ulcers (VLUs),3
+Venous Thrombosis,3
+SLE,3
+IIM,3
+ANCA Associated Vasculitis (AAV),3
+Fistula,2
+Cardiac Defect,2
+Cardiac Anomaly,2
+Pericardial Defect,2
+Cadasil,2
+Ventricular Septal Defect,2
+Waldenstrom's Macroglobulinemia Recurrent,2
+Waldenstrom's Macroglobulinemia Refractory,2
+Age Related Macular Degeneration,2
+Upper Limb Spasticity,2
+IgA Vasculitis,2
+Neovascular Age-related Macular Degeneration (nAMD),2
+Traumatic Brain Injury,2
+Wet Macular Degeneration,2
+ANCA-associated Vasculitis,2
+Systemic Scleroderma,2
+Dermatomyositis,2
+Electrocardiography,2
+Diabetes Complications,2
+Prevention of Arterial and Venous Thrombosis,2
+Ectonucleotide Pyrophosphatase/phosphodiesterase1 Deficiency,2
+Generalized Arterial Calcification of Infancy,2
+ATP-Binding Cassette Subfamily C Member 6 Deficiency,2
+Atrial Septal Defect,2
+Indolent Lymphoma,2
+MALT Lymphoma,2
+MELAS,2
+Waldenström's Macroglobulinemia,2
+Small Lymphocytic Lymphoma (SLL),2
+Waldenstrom Macroglobulinemia (WM),2
+Primary Central Nervous System Lymphoma (PCNSL),2
+Venous Insufficiency (Chronic)(Peripheral),2
+Iliofemoral; Thrombosis,2
+Intraocular Inflammation,2
+Prostate Cancer,2
+Non-proliferative Diabetic Retinopathy,2
+Diabetic Foot Ulcer Neuropathic,2
+Alzheimer Disease,2
+Mild Cognitive Impairment,2
+Frontotemporal Dementia,2
+CLL/SLL,2
+Diffuse Large B Cell Lymphoma,2
+Retinal Diseases,2
+Edema,2
+Pediatric,2
+Primary Mitochondrial Disease,2
+Membranous Nephropathy,2
+"Aneurysm, Intracranial",2
+Cardiac Rhythm Disturbance,2
+Neoplasms,2
+Lung Cancer,2
+Pulmonary Edema,2
+Pneumonia,2
+Antineutrophil Cytoplasmic Antibody-associated Vasculitis,2
+PFO - Patent Foramen Ovale,2
+Haemorrhoids,2
+Kidney Transplant; Complications,2
+End Stage Kidney Disease,2
+"Lymphoma, Non-Hodgkin",2
+Large B-cell Lymphoma,2
+Small Lymphocytic Lymphoma,2
+Diabetic Foot Ulcers,2
+Diabetic Foot Ulcer Mixed,2
+Vascular Dementia,2
+Waldenström's Macroglobulinemia (WM),2
+Cardiac Failure,2
+Small for Gestational Age,2
+Barth Syndrome,2
+Cerebral Amyloid Angiopathy,2
+Cancer,2
+Coagulopathy,2
+Non-Hodgkin Lymphoma,2
+Hereditary Angioedema - Type 3,2
+C1 Esterase Inhibitor [C1-INH] Deficiency,2
+"C1 Esterase Inhibitor, Deficiency of",2
+Hereditary Angioedema Type III,2
+Extracorporeal Membrane Oxygenation Complication,2
+Embolism,2
+"Pulmonary Nodule, Solitary",2
+Subcutaneous Emphysema,2
+Trisomy 13,2
+Trisomy 18,2
+Thrombus,2
+Chronic Kidney Diseases,2
+Aneurysmal Subarachnoid Hemorrhage,2
+Alagille Syndrome (ALGS),2
+Dementia,2
+NPDR - Non Proliferative Diabetic Retinopathy,2
+Hyperkalemia,2
+Periventricular Leukomalacia,2
+Hepatic Impairment,2
+"PolG, Primary Mitochondrial Myopathy",2
+High-grade B-cell Lymphoma,2
+T-Cell/Histiocyte Rich Lymphoma,2
+Hypotension,2
+Geriatric Patients,2
+Anesthesia,2
+Peripheral Aneurysms,2
+Post Thrombotic Syndrome,2
+Arterial Ulcers,2
+Acute Cerebral Ischemia,2
+B-cell Lymphoma,2
+Fabry's Disease,2
+Polymyalgia Rheumatica,2
+Central Retinal Artery Occlusion,2
+Neutropenia,2
+Venous Stenosis,2
+Venous Occlusion,2
+Real Life Study,2
+TLC-NOSF Dressings,2
+QoL Questionnaire,2
+Acute Myocardial Injuries,2
+Urticaria,2
+Chronic Spontaneous Urticaria,2
+Chronic Idiopathic Urticaria,2
+Hives,2
+Pruritis,2
+Post Partum Hemorrhage,2
+Eosinophilic Granulomatosis With Polyangiitis (EGPA),2
+Antiphospholipid Syndrome,2
+Retinal Vasculitis,2
+Glaucoma,2
+Healthy Adult Participants,2
+Ataxia-Telangiectasia (A-T),2
+ANCA-Associated Vasculitis (AAV),2
+Diabetic Foot Ulcers (DFU),2
+Foot Ulcer Chronic,2
+Bullous Pemphigoid (BP),2
+Behçet's Syndrome (BS),2
+Dermatomyositis (DM),2
+Immune-mediated Necrotizing Myopathy (IMNM),2
+Immune Thrombocytopenia (ITP),2
+Burns,2
+Chronic Wound of the Lower Limb (Leg Ulcer or Foot Ulcer),2
+Lymphatic Malformations,2
+CLOVES Syndrome,2
+Foot Ulcer Due to Type 2 Diabetes Mellitus,2
+Foot Ulcer Due to Type 1 Diabetes Mellitus,2
+Type 2 Diabetes Mellitus (T2DM),2
+PTA (Percutaneous Transluminal Angioplasty),2
+MS,2
+MG,2
+Type 2 Diabetes,2
+Acute Venous and Arterial Thrombotic and Thromboembolic Events,2
+Hemorrhoid,2
+Venous Insufficiency of Leg,2
+Chronic Wounds,2
+Wounds,2
+Pressure Ulcer (PU),2
+Pulmonary Artery Stenosis,2
+"Wound, Non-Healed",1
+Arteriovenous Graft,1
+Chronic Ulcer of Lower Extremity,1
+Intracranial Hemorrhages,1
+Birth Asphyxia,1
+Upper Extremity Problem,1
+Diabetic Kidney Disease,1
+Irregular Sleep Wake Rhythm Disorder,1
+COVID-19,1
+Vaccine Adverse Reaction,1
+Vaccine Reaction,1
+"Vaccine or Biological Substance, Unspecified Causing Adverse Effects in Therapeutic Use",1
+Corona Virus Infection,1
+Blood Clot,1
+Thrombocytopenia,1
+Neuritis,1
+Influenza,1
+Guillain-Barré,1
+GWAS,1
+Genetic Sequencing,1
+Atrioventricular Septal Defect,1
+Primum Atrial Septal Defect,1
+Focal Segmental Glomerulosclerosis,1
+Minimal Change Disease,1
+Alport Syndrome,1
+Diabetic Peripheral Neuropathy,1
+Neovascular (Wet) Age-related Macular Degeneration,1
+Type2 Diabetes,1
+"Angioedema, Hereditary, Types I and II",1
+Age-related Macular Degeneration,1
+Cardiovascular Disorders,1
+Integumentary Disease,1
+Musculoskeletal Disorders,1
+Neurodegenerative Disorders,1
+Neurologic Disorders,1
+Pulmonary Disorders,1
+Sexual Dysfunction,1
+Urologic Disorders,1
+Viral Illness,1
+Chronic Obstructive Pulmonary Disease,1
+Autosomal Recessive Hypophosphatemic Rickets,1
+Haemorrhoids Without Complication,1
+Hematologic Malignancy,1
+Kawasaki Disease,1
+Covid-19,1
+Sars-CoV2,1
+Diabete Mellitus,1
+Cardiopathy,1
+Pulmonary Disease,1
+Renal Disease,1
+Liver Diseases,1
+Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,1
+Refractory B-Cell Lymphoma,1
+Neonatal Asphyxia,1
+Infection,1
+Inflammation,1
+Mitochondrial DNA tRNALeu(UUR) m.3243A<G Mutation,1
+Subacute Necrotizing Encephalomyelopathy,1
+Symptomatic Neurogenic Orthostatic Hypotension,1
+Diabetic Foot Infection,1
+Pheochromocytoma/Paraganglioma,1
+Pancreatic Neuroendocrine Tumor,1
+Advanced Gastrointestinal Stromal Tumor,1
+HIF-2α Mutated Cancers,1
+Asphyxia Neonatorum,1
+Anticoagulant Therapy,1
+Retinal Artery Occlusion,1
+Central Serous Chorioretinopathy,1
+Pathologic Myopia,1
+Retinitis Pigmentosa,1
+Epiretinal Membrane,1
+Macular Holes,1
+Nonexudative Age-related Macular Degeneration,1
+Exudative Age Related Macular Degeneration,1
+Suspect Glaucoma,1
+Optic Atrophy,1
+Retinal Detachment,1
+Post Operative Hemorrhage,1
+"Blood Pressure, High",1
+Blood Sugar; High,1
+"Weight, Birth",1
+Smoking,1
+Buerger's Disease,1
+Muscular Ventricular Septal Defect,1
+Suspected Endophthalmitis,1
+Leg Injuries and Disorders,1
+Advanced or Metastatic Solid Tumors,1
+Proliferative Diabetic Retinopathy,1
+Advanced Non-squamous Non-small-cell Lung Cancer,1
+Non-Small Cell Lung Cancer,1
+Hemostasis,1
+General Surgery,1
+Dementia With Lewy Bodies,1
+Primary Progressive Aphasia,1
+Parkinson Disease,1
+Motor Neuron Disease,1
+Major Depressive Disorder,1
+Bipolar Disorder,1
+Amyotrophic Lateral Sclerosis,1
+22q11 Deletion Syndrome,1
+Hairy Cell Leukemia,1
+Alzheimer's Disease With Vascular Pathology,1
+"Carcinoma, Renal Cell",1
+Varicose Veins,1
+COVID,1
+Disseminated Intravascular Coagulation,1
+Acute Limb Ischemia,1
+Ataxia Telangiectasia Louis-Bar,1
+Ataxia Telangiectasia in Children,1
+Cutaneous Ulcer,1
+Arterial Leg Ulcer,1
+Chronic Diabetic Foot Ulcers,1
+"Intracranial Saccular Aneurysm, Either Rupture or Unruptured",1
+Wide Neck Aneurysm,1
+Infectious Disease,1
+Diseases of the Blood and Blood-Forming Organs and Certain Disorders Involving the Immune Mechanism (D50-D89),1
+"Endocrine, Nutritional and Metabolic Diseases (E00-E89)",1
+Mental and Behavioural Disorders,1
+Diseases of the Nervous System,1
+Diseases of the Eye and Adnexa,1
+Diseases of the Ear and Mastoid Process,1
+Diseases of the Circulatory System,1
+Diseases of the Respiratory System,1
+Diseases of the Digestive System,1
+Diseases of the Skin and Subcutaneous Tissue,1
+Diseases of the Musculoskeletal System and Connective Tissue,1
+Diseases of the Genitourinary System,1
+"Pregnancy, Childbirth and the Puerperium",1
+Certain Conditions Originating in the Perinatal Period,1
+"Congenital Malformations, Deformations and Chromosomal Abnormalities (Q00-Q99)",1
+"Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified",1
+"Injury, Poisoning and Certain Other Consequences of External Causes",1
+External Causes of Morbidity and Mortality,1
+Factors Influencing Health Status and Contact With Health Services,1
+"Leukemia, Lymphocytic, Chronic, B-Cell",1
+"Lymphoma, Lymphocytic, Small",1
+"Lymphoma, Mantle-Cell",1
+"Ritcher's Transformation, Syndrome",1
+22Q11.2 Deletion Syndrome,1
+Juvenile Psoriatic Arthritis,1
+Relapsed/Refractory Waldenstrom Macroglobulinemia,1
+Relapsed/Refractory Richter Transformation,1
+Relapsed/Refractory Burkitt Lymphoma,1
+Relapsed/Refractory Hairy Cell Leukemia,1
+Artificial Intelligence,1
+Lung Diseases,1
+Hilar Calcification,1
+Fracture Rib,1
+ASD - Atrial Septal Defect,1
+VSD - Muscular Ventricular Septal Defect,1
+PIVSD - Post Infarct Muscular Ventricular Septal Defect,1
+Left Ventricular Dysfunction,1
+Complication of Renal Dialysis,1
+End Stage Renal Disease,1
+ESRD,1
+Chronic Kidney Failure,1
+Complication of Hemodialysis,1
+Vascular Access Complication,1
+Hemophilia A With Inhibitor,1
+Hemophilia A With Anti Factor VIII,1
+B-cell Acute Lymphoblastic Leukemia,1
+Aggressive Lymphoma,1
+Large-cell Lymphoma,1
+Venous Thromboses,1
+Wound Healing Disturbance of,1
+Wound Healing Disorder,1
+Wound Healing Delayed,1
+Hematologic Malignancies,1
+Waldenstroms Macroglobulinaemia,1
+Non-Hodgkins Lymphoma,1
+Chronic Lymphocytic Leukaemia,1
+Neovascular Age-Related Macular Degeneration,1
+Raynaud's Phenomenon Secondary to Systemic Sclerosis,1
+"Aneurysm, Ruptured",1
+Sinus Node Dysfunction,1
+Diffuse Large B Cell Lymphoma (DLBCL),1
+Secondary Central Nervous System Lymphoma (SCNSL),1
+Cerebral Cavernous Malformation,1
+Cholestatic Liver Disease,1
+Out of Hospital Cardiac Arrest,1
+"Thrombosis, Deep Vein",1
+Growth Hormone Deficiency,1
+Hyperlipoproteinemia (a),1
+Surgery,1
+Hemi-retinal Vein Occlusion,1
+"Tumor, Cerebral Ventricle",1
+"Tumor, Cerebellar",1
+"Trauma, Brain",1
+"Aneurysm, AVM, Dural Arteriovenous Fistula, Glioma, Meningioma, Metastasis, Bypass",1
+Abrasion,1
+Laceration,1
+"Burn, Partial Thickness",1
+Oncology Wound,1
+Cardiotoxicity,1
+Moderate to Severe Acute Lower Back Pain,1
+Obstructive Pulmonary Function,1
+Restrictive Pulmonary Function,1
+Liver Transplant,1
+Hypercortisolism,1
+Hematological Malignancies,1
+Hereditary Angioedema Type I and II,1
+HAE With Normal C1 Esterase Inhibitor,1
+"Solid Tumor, Unspecified, Adult",1
+Adrenocortical Carcinoma,1
+Lysosomal Storage Diseases,1
+Retinal Vascular Occlusion,1
+B-cell Malignancy,1
+STEMI,1
+NSTEMI,1
+Cardiac Edema (CHF),1
+Vanishing Twin,1
+Trisomy 21,1
+"Osteoporosis, Postmenopausal",1
+NHL,1
+MCL,1
+MZL,1
+Richter Syndrome,1
+Non-Alcoholic Fatty Liver Disease,1
+Thromboembolic Disorders,1
+"Angioedemas, Hereditary",1
+Von Willebrand Diseases,1
+Macular Polypoidal Choroidal Vasculopathy (PCV),1
+"Asthma, EGPA(Eosinophilic Granulomatosis With Polyangiitis)",1
+"SGA, Turner Syndrome, Noonan Syndrome, ISS",1
+Erythromelalgia,1
+Mesenchymal Stromal Cells,1
+Relapsed/Refractory B-cell Malignancies,1
+Thromboangiitis Obliterans,1
+Uterine Fibroid,1
+Arteriovenous Malformations,1
+Hypervascular Tumors,1
+Benign Prostatic Hyperplasia,1
+Hemiretinal Vein Occlusion,1
+Acute Respiratory Distress Syndrome,1
+Coronavirus,1
+Hypoxic Respiratory Failure,1
+Hypoxemic Respiratory Failure,1
+Respiratory Complication,1
+Respiratory Insufficiency,1
+Cardiac Dysfunction,1
+Pulmonary Inflammation,1
+Respiratory Failure,1
+Cytokine Storm,1
+COVID 19,1
+SARS-CoV-2,1
+Cardiac Event,1
+Cardiac Complication,1
+Cardiac Infarct,1
+Lewy Body Dementia,1
+Mixed Dementia,1
+Chronic Leg Ulcer,1
+Covid19,1
+Skin Ulcer Venous Stasis Chronic,1
+Wound Infection,1
+PDR - Proliferative Diabetic Retinopathy,1
+Antineutrophil Cytoplasmic Antibody Associated Vasculitis,1
+High Risk PCI,1
+Right Heart Catheterization,1
+Cerebral Palsy,1
+Pathology of the Thoracic Aorta,1
+"Pseudo-aneurysm, Thoracic",1
+Intramural Haematoma of Thoracic Aorta,1
+Penetrating Ulcer of Aorta (Disorder),1
+Rupture of the Isthmus,1
+COVID-19 Infection,1
+Hematopoietic and Lymphoid System Neoplasm,1
+Leukemia,1
+Lymphoma,1
+Blood Loss,1
+Extracorporeal Circulation; Complications,1
+Granulomatosis With Polyangiitis,1
+Hemophagocytic Syndrome,1
+"Fabry Disease, Cardiac Variant",1
+Arteriovenous Fistula Stenosis,1
+Arteriovenous Fistula Occlusion,1
+Non-healing Wounds,1
+Surgical Incision,1
+"Ulcer, Leg",1
+Wound Dehiscence,1
+Mature B-Cell Neoplasm,1
+Non Hodgkin Lymphoma,1
+Pediatric-Type Follicular Lymphoma,1
+IRF4 Gene Rearrangement,1
+"EBV-Positive DLBCL, Nos",1
+Burkitt Lymphoma,1
+Plasmablastic Lymphoma,1
+Primary Cutaneous Follicle Center Lymphoma,1
+Primary Effusion Lymphoma,1
+DLBCL Germinal Center B-Cell Type,1
+Primary Mediastinal Large B Cell Lymphoma,1
+ALK-Positive Large B-Cell Lymphoma,1
+Primary Cutaneous Diffuse Large B-Cell Lymphoma,1
+Splenic Marginal Zone Lymphoma,1
+Nodal Marginal Zone Lymphoma,1
+"HHV8-Positive DLBCL, Nos",1
+Duodenal-Type Follicular Lymphoma,1
+Healthy Volunteer,1
+Waldenstrom's Macroglobulinemia,1
+Renal Artery Stenosis,1
+Renal Failure,1
+Flow Diverter,1
+SGA,1
+ISS,1
+Cardiac Rhythm Disorder,1
+Center-Involved Diabetic Macular Edema (CI-DME),1
+Inherited Mitochondrial Disease,1
+Prophylaxis,1
+COPD,1
+Anemia,1
+Congestive Cardiac Failure,1
+Bronchiectasis,1
+Interstitial Lung Disease,1
+Long COVID,1
+Upper Respiratory Disease,1
+Aneurysm Abdominal,1
+Arterial Disease Occlusive,1
+Prothesis,1
+Chronic Obstructive Pulmonary Disease (COPD),1
+Quality of Life,1
+Mental Health Wellness 1,1
+Myeloma Multiple,1
+Diabetic Ulcers,1
+Skin Graft,1
+Glaucoma/Closed Angle Glaucoma,1
+Hypoplastic Left Heart Syndrome,1
+Drug Resistant Epilepsy,1
+Leigh Disease,1
+Leigh Syndrome,1
+Mitochondrial Encephalopathy (MELAS),1
+Pontocerebellar Hypoplasia Type 6 (PCH6),1
+Alpers Disease,1
+Alpers Syndrome,1
+Endocrine Disorder,1
+"Cardiac Output, Low",1
+Carotid Atherosclerosis,1
+Atrium; Fibrillation,1
+Ablation,1
+Healthy Chinese Subjects,1
+Hematologic Cancer,1
+Femoral Artery Stenosis,1
+Iliac Artery Stenosis,1
+Limb-girdle Muscular Dystrophy,1
+Obese,1
+Psoriasis,1
+PFO,1
+Raynaud Phenomenon,1
+Solid Tumor,1
+Renal Cell Carcinoma,1
+Pseudomonas Aeruginosa Infection,1
+Staphylococcus Aureus Infection,1
+Acinetobacter Infection,1
+"Diabetic Retinopathy, DR",1
+"Vascular Diseases, Peripheral",1
+Hyperlipoproteinemia(a),1
+Thromboembolism,1
+Giant Cell Arteritis (GCA),1
+Takayasu Arteritis,1
+"Neovascular Age-related Macular Degeneration (nAMD), Diabetic Macular Edema (DME), Retinal Vein Occlusion (RVO)",1
+Cardiac Events,1
+Hypereosinophilia Syndrome (HES),1
+Leg Ulcers Venous,1
+Circulatory Disease,1
+IgAN,1
+IgAVN,1
+Immunoglobulin A Vasculitis Associated Nephritis,1
+Henoch-schonlein Purpura Nephritis,1
+Hypereosinophilic Syndrome (HES),1
+Sepsis-Induced Hypotension,1
+PTA (Percutaneous Transluminal Angioplasty ),1
+Chronic Cerebral Ischemia,1
+Pregnancy,1
+Pregnancy Complications,1
+"Blood Loss, Surgical",1
+Sjogren&#39;s Syndrome (SS),1
+Sinus Node Disease,1
+Atrioventricular Block,1
+Parkinson Disease (PD),1
+Non-proliferative Diabetic Retinopathy (NPDR),1
+Open-angle Glaucoma (OAG),1
+Normal Tension Glaucoma (NTG),1
+Paroxysmal AF,1
+Antineutrophilic Cytoplasmic Antibody (ANCA)- Associated Vasculitis (AAV),1
+Idiopathic Inflammatory Myositis (IIM),1
+No Condition,1
+Childhood-onset Systemic Lupus Erythematous,1
+Juvenile Myasthenia Gravis,1
+Juvenile Dermatomyositis,1
+"Shock, Cardiogenic",1
+Exocrine Pancreatic Insuficiency,1
+Pharmacodynamics,1
+Pharmacokinetics,1
+Pregnant Individuals,1
+Aneuploidy,1
+Down Syndrome (Trisomy 21),1
+22q11.2 Deletion Syndrome,1
+Sex Chromosome Abnormalities,1
+Gene Mutations,1
+Arterial Calcification,1
+Autosomal Recessive Hypophosphatemic Rickets Type 2,1
+Atherosclerosis,1
+Neovascular (Wet) Age-Related Macular Degeneration,1
+Cardiac Edema,1
+Von Hippel Lindau Disease,1
+Wounds and Injuries,1
+Mohs Surgery,1
+Trauma Injury,1
+Injury and Wounds,1
+Degloving Injuries,1
+Sepsis Associated Disseminated Intravascular Coagulation (DIC),1
+"Vascular Disease, Peripheral",1
+Venous Leg Ulcers,1
+Nonhealing Venous Leg Ulcer,1
+PIK3CA-Related Overgrowth Spectrum (PROS),1
+Vascular Malformations,1
+PIK3CA Mutation,1
+Klippel Trenaunay Syndrome,1
+Megalencephaly-capillary Malformation Polymicrogyria Syndrome (MCAP),1
+Vascular Anomalies,1
+Thromboangiitis Obliterans (Buerger's Disease),1
+Amnio-Maxx,1
+Non-Proliferative Diabetic Retinopathy,1
+Branch Retinal Vein Occlusion with Macular Edema,1
+Central Retinal Vein Occlusion with Macular Edema,1
+Cardiomyopathies,1
+Acquired Angioedema Due to C1-Inhibitor Deficiency (AAE-C1-INH),1
+End Stage Renal Disease on Dialysis,1
+Rheumatoid Arthritis (RA),1
+IgG4-Related Diseases,1
+Sjogren&#39;s Syndrome,1
+Relapsed or Refractory B-cell Malignancies,1
+Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL),1
+Diffuse-large B-cell Lymphoma (DLBCL),1
+Waldenstrom's Macroglobulinemia (WM),1
+B Cell Lymphoma,1
+"NHL, Adult",1
+Relapsed Non-Hodgkin Lymphoma,1
+Refractory Non-Hodgkin Lymphoma,1
+Aggressive B-Cell Non-Hodgkin Lymphoma,1
+Indolent B-Cell Non-Hodgkin Lymphoma,1
+DLBCL - Diffuse Large B Cell Lymphoma,1
+HGBL With MYC and BCL2 and/or BCL6 Rearrangements,1
+"Non-hodgkin Lymphoma,B Cell",1
+Primary Mediastinal Large B-cell Lymphoma (PMBCL),1
+"Epstein-Barr Virus Positive DLBCL, Nos",1
+Follicular Lymphoma Grade 3B,1
+DLBCL (Diffuse Large B-Cell Lymphoma) Associated With Chronic Inflammation,1
+"High Grade B-Cell Lymphoma, Not Otherwise Specified",1
+Follicular Lymphoma Grade 3,1
+Marginal Zone Splenic Lymphoma,1
+Waldenstrom Macroglobulinaemia,1
+Type 1 Diabetes Mellitus,1
+Neuroischemic Foot Ulcer,1
+Chronic Wound Care,1
+Wagner Grade 1 - 2,1
+Chronic Wound,1
+Open Wound,1
+Neovascular Age-Related Macular Degeneration (NVAMD),1
+Branch Retinal Vein Occlusion (BRVO),1
+Sedation,1
+Sleep,1
+Von Hippel Lindau-Deficient Clear Cell Renal Cell Carcinoma,1
+SLE - Systemic Lupus Erythematosus,1
+Sjögren Syndrome,1
+Progressive Familial Intrahepatic Cholestasis (PFIC),1
+Neuropsychiatric Systemic Lupus Erythematosus,1
+Cognitive Impairment,1
+Intracranial Arteriosclerosis,1
+Memory Impairment,1
+Venous Malformations,1
+Klippel-Trenaunay Syndrome,1
+Non-Arteritic Anterior Ischemic Optic Neuropathy,1
+Cerebral Vasospasm,1
+Subdural Hematoma,1
+"Subdural Hematoma, Chronic",1
+Dementia Alzheimers,1
+"Dementia, Mixed",1
+Subjective Cognitive Decline,1
+Saccular and Fusiform Aneurysms,1
+Pseudoaneurysm,1
+Vascular Dissection,1
+Perforation,1
+Bifurcation Aneurysms,1
+Stenosis,1
+Neurovascular Abnormalties,1
+Wide-neck Aneurysm,1
+"Dissection of Aorta, Thoracic",1
+"Renal Insufficiency, Chronic",1
+Duchenne Muscular Dystrophy,1
+Leg Ulcers,1
+Allergic Reaction (IgA) Vasculitis,1
+Hyperlipidemias,1
+Failure of Fontan Type Circulation,1
+Fenestration,1
+Univentricular Heart,1
+Congenital Anomaly,1
+Sclerosis,1
+SS,1
+NMO Spectrum Disorder,1
+Microcystic Lymphatic Malformation,1
+Respiratory (Chronic Obstructive Pulmonary Disease),1
+Cancer-Associated Thrombosis (CAT),1
+Kidney Disease,1
+Peritoneal Dialysis (PD),1
+End Stage Kidney Disease (ESRD),1
+Stiff Person Syndrome,1
+Chronic Ulcers,1
+Age-Related Macular Degeneration (AMD),1
+Metabolic Disease,1
+Neurologic Disorder,1
+"Lymphoma, Large B-Cell, Diffuse",1
+"Lymphoma, Follicular",1
+"Lymphoma, B-cell Marginal Zone",1
+"Lymphoma, Mantle Cell",1
+Cardiovascular,1
+Arteriovenous Malformation,1
+Gastrointestinal Bleed,1
+Gastric Varices,1
+Pelvic Venous Disorders,1
+Portal Vein Embolization,1
+Type II Endoleak,1
+Varicocele,1
+Primary Ciliary Dyskinesia (PCD),1
+Arrythmia,1
+Sepsis,1
+Ataxia-Telangiectasia,1
+Popliteal Artery Disease,1
+Superficial Femoral Artery Disease,1
+InTracranial Haemorrhage,1
+Cardiac Insufficiency,1
+Microscopic Polyangiitis (MPA),1
+Granulomatosis With Polyangiitis (GPA),1
+Pressure Ulcers,1
+Burn Wounds,1
+Trauma Wounds,1
+Surgical Wounds,1
+Treatment of Lipoprotein Disorder,1
+Dissection of Thoracic Descending Aorta,1
+"Aneurysm of Aorta, Thoracic",1
+Penetrating Aortic Ulcers (PAUs),1
+Intramural Hematoma of the Thoracic Aorta,1
+Ulcer-like Projection (ULP),1
+Traumatic Brain Hemorrhage,1
+Respiratory Syncytial Virus Infections,1
+Systemic Inflammation (hsCRP),1
+AKI - Acute Kidney Injury,1
+Cardiac Surgery,1
+Fluid Therapy,1
+Hemodynamic Instability,1
+Postoperative Complications,1
+Granulation of Chronic Diabetic Wounds,1
+NMOSD,1
+Cardiovascular Events,1
+MACE,1
+Traumatic Wounds,1
+Sjogren's Syndrome (SS),1
+Obstetric Hemostasis,1
+Wet Age-related Macular Degeneration (AMD),1
+Visual Impairment,1
+Soft Tissue Reinforcement,1
+Acute Hereditary Angio Edema,1
+Chronic Venous Disease,1
+"Chronic Venous Insufficiency, CVI",1
+Thrombosis (Stent Thrombosis),1
+"Thrombosis, Venous",1
+Thrombectomy,1
+Solid Cancers,1
+NSCLC (Advanced Non-small Cell Lung Cancer),1
+Gastric (Stomach) Cancer,1
+Endometrial Cancer,1
+Malignant Melanoma,1
+Relapsed/Refractory Autoimmune Diseases,1
+IgA Nephropathy (IgAN),1
+ANCA-associated Vasculitis (AAV)/ANCA-associated Glomerulonephritis (AAGN),1
+Refractory Podocytopathy,1
+Proliferative Glomerulonephritis With Monoclonal Immunoglobulin Deposits,1
+High-risk Cardiac Patients,1
+Non-center Involved Diabetic Macular Edema,1
+Non-center Involved Diabetic Macular Edema Associated With Non-proliferative Diabetic Retinopathy,1
+Center-involved Diabetic Macular Edema,1
+Center-involved Diabetic Macular Edema Associated With Non-proliferative Diabetic Retinopathy,1
+Hereditary Angioedemas,1
+Safety,1
+Tolerability,1
+Pharmacokinetic Study in Healthy Volunteers,1
+Anti-Neutrophil Cytoplasm Antibodies (ANCA) Associated Vasculitis,1
+Chronic Disease of Cardiovascular System,1
+Keratoconus,1
+Cataract,1
+Long Femoropopliteal Artery Disease,1
+Extracranial Carotid Artery Disease,1
+TCAR,1
+Transcarotid Artery Revascularization,1
+Aorto-iliac Occlusive Disease (AIOD),1
+Visceral Artery Occlusive Disease (VAOD),1
+Isolated Artery Aneurysms (IAA),1
+Trauma or Iatrogenic Vessel Injury,1
+LN,1
+ANCA-Associated Glomerulonephritis,1
+Anti-GBM Disease,1
+MN,1
+SSc,1
+MSA,1
+Secondary Immune Deficiency,1
+Malignant Neoplasms,1
+Hidradenitis Suppurativa,1
+AML/MDS,1
+CD33 Expressing Hematological Malignancies,1
+FLT3 Expressing Hematological Malignancies,1
+Internal Hemorrhoids,1
+Hemorrhoid Bleeding,1
+Hemorrhoidal Bleeding,1
+Internal Hemorrhoid,1
+Atrial Septal Defect (ASD),1
+End Stage Kidney Disease (ESKD),1
+Ischemia Reperfusion Injury,1
+Cardiac Surgery Associated - Acute Kidney Injury,1
+Lupus Erythematosus,1
+Granulomatous Polyangiitis,1
+Microscopic Polyangiitis,1
+Orthostatic Hypotension,1
+Reflex Syncope,1
+Aortic Coarctation,1
+STEMI (ST Elevation MI),1
+Chronic Limb-Threatening Ischemia,1
+Psychological Stress,1
+Anxiety,1
+Emotional Stress,1
+Autonomic Nervous System Dysfunction,1
+Sleep Disturbance,1
+Insomnia,1
+Behavioral Health,1
+Cognitive Fatigue,1
+Occupational Stress,1
+Financial Stress,1
+Burnout Syndrome,1
+Heart Rate Variability,1
+Neurobehavioral Manifestations,1
+Bradykinin-mediated Angioedema,1
+Familial Erythromelalgia,1
+Short Stature Homeobox Gene Mutation,1
+Small for Gestational Age at Delivery,1
+Retinitis Pigmentosa (RP),1
+Antineutrophil Cytoplasmic Antibody-Associated Vasculitis,1
+Rheumatoid Arthritis,1
+Neovascular Age-related Macular Degeneration (NVAMD),1
+Chronic Subdural Hematoma,1
+cSDH,1
+Chronic Subdural Hematomas,1
+VLU,1
+White Matter Disease,1
+Demyelinating Diseases,1

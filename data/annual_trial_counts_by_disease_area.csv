@@ -1,0 +1,43 @@
+disease_area,year,trial_count,significant_trend
+Autoimmune,2020,121,Yes
+Autoimmune,2021,159,Yes
+Autoimmune,2022,160,Yes
+Autoimmune,2023,229,Yes
+Autoimmune,2024,203,Yes
+Autoimmune,2025,245,Yes
+Cardiovascular,2020,207,No
+Cardiovascular,2021,242,No
+Cardiovascular,2022,253,No
+Cardiovascular,2023,387,No
+Cardiovascular,2024,244,No
+Cardiovascular,2025,257,No
+Diabetes,2020,114,No
+Diabetes,2021,120,No
+Diabetes,2022,118,No
+Diabetes,2023,159,No
+Diabetes,2024,130,No
+Diabetes,2025,133,No
+Kidney,2020,85,No
+Kidney,2021,117,No
+Kidney,2022,119,No
+Kidney,2023,150,No
+Kidney,2024,109,No
+Kidney,2025,133,No
+Liver,2020,126,No
+Liver,2021,126,No
+Liver,2022,126,No
+Liver,2023,189,No
+Liver,2024,126,No
+Liver,2025,101,No
+Obesity,2020,22,Yes
+Obesity,2021,43,Yes
+Obesity,2022,48,Yes
+Obesity,2023,90,Yes
+Obesity,2024,121,Yes
+Obesity,2025,169,Yes
+Rare Disease,2020,9,No
+Rare Disease,2021,10,No
+Rare Disease,2022,3,No
+Rare Disease,2023,8,No
+Rare Disease,2024,9,No
+Rare Disease,2025,12,No
