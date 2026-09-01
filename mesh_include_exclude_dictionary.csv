@@ -1,0 +1,439 @@
+Disease Area,Term,Use,Section,Exclude reason
+cardiovascular,Coronary artery disease / ischemic heart disease,True cardiovascular,Include,
+cardiovascular,Heart failure,True cardiovascular,Include,
+cardiovascular,Cardiomyopathy,True cardiovascular,Include,
+cardiovascular,Arrhythmias,True cardiovascular,Include,
+cardiovascular,Valvular heart disease,True cardiovascular,Include,
+cardiovascular,Congenital heart disease,True cardiovascular,Include,
+cardiovascular,Cerebrovascular disease / stroke,True cardiovascular,Include,
+cardiovascular,Peripheral arterial disease,True cardiovascular,Include,
+cardiovascular,Aortic disease,True cardiovascular,Include,
+cardiovascular,Venous thromboembolism / pulmonary embolism,True cardiovascular,Include,
+cardiovascular,Hypertension,True cardiovascular/vascular,Include,
+cardiovascular,"Cardiovascular infections (e.g., endocarditis)",True cardiovascular,Include,
+cardiovascular,Multiple myeloma,,Exclude,Hematologic malignancy
+cardiovascular,Waldenström macroglobulinemia,,Exclude,Hematologic malignancy
+cardiovascular,Cryoglobulinemia,,Exclude,Systemic/hematologic
+cardiovascular,Ehlers-Danlos syndrome,,Exclude,Connective tissue disorder
+cardiovascular,Scurvy,,Exclude,Nutritional deficiency
+cardiovascular,Hereditary hemorrhagic telangiectasia,,Exclude,Systemic vascular disorder
+cardiovascular,Amyloidosis,,Exclude,Systemic protein deposition disorder
+cardiovascular,Vasculitides,,Exclude,Systemic inflammatory disorders
+cardiovascular,Connective tissue disorders,,Exclude,Systemic
+cardiovascular,Anemias,,Exclude,Hematologic
+cardiovascular,Cardiovascular Diseases,True cardiovascular,Include,
+cardiovascular,Atherosclerotic Cardiovascular Disease,True cardiovascular,Include,
+cardiovascular,Hypercholesterolemia,True cardiovascular,Include,
+cardiovascular,Cardiac Disease,True cardiovascular,Include,
+cardiovascular,Cardiovascular Disease,True cardiovascular,Include,
+cardiovascular,Peripheral Artery Disease,True cardiovascular,Include,
+cardiovascular,Atherosclerotic Cardiovascular Disease (ASCVD),True cardiovascular,Include,
+cardiovascular,Heart Diseases,True cardiovascular,Include,
+cardiovascular,Dyslipidemias,True cardiovascular,Include,
+cardiovascular,Hypercholesterolaemia,True cardiovascular,Include,
+cardiovascular,High Cholesterol,True cardiovascular,Include,
+cardiovascular,Familial Hypercholesterolemia,True cardiovascular,Include,
+cardiovascular,Sudden Cardiac Arrest,True cardiovascular,Include,
+cardiovascular,Cardiovascular Risk,True cardiovascular,Include,
+kidney,Chronic kidney disease / CKD / chronic renal failure / chronic renal insufficiency,True kidney,Include,
+kidney,End stage renal disease / ESRD / end stage kidney disease / ESKD,True kidney,Include,
+kidney,Acute kidney injury / AKI / acute renal failure,True kidney,Include,
+kidney,Glomerulonephritis / glomerulosclerosis / glomerulopathy,True kidney,Include,
+kidney,IgA nephropathy,True kidney,Include,
+kidney,Focal segmental glomerulosclerosis / FSGS,True kidney,Include,
+kidney,Membranous nephropathy,True kidney,Include,
+kidney,Minimal change disease,True kidney,Include,
+kidney,Lupus nephritis,True kidney,Include,
+kidney,Nephrotic syndrome,True kidney,Include,
+kidney,Nephritis,True kidney,Include,
+kidney,Diabetic nephropathy / diabetic kidney disease / DKD,True kidney,Include,
+kidney,Polycystic kidney disease / ADPKD / ARPKD,True kidney,Include,
+kidney,Kidney transplant rejection / renal transplant rejection,True kidney,Include,
+kidney,Atypical hemolytic uremic syndrome / aHUS,True kidney,Include,
+kidney,Complement 3 glomerulopathy / C3G / dense deposit disease,True kidney,Include,
+kidney,Membranoproliferative glomerulonephritis / MPGN,True kidney,Include,
+kidney,Thrombotic microangiopathy,True kidney,Include,
+kidney,ANCA-associated vasculitis / ANCA-associated glomerulonephritis,True kidney,Include,
+kidney,Anti-GBM disease / Goodpasture syndrome,True kidney,Include,
+kidney,Anemia of chronic kidney disease / renal anemia,True kidney,Include,
+kidney,Secondary hyperparathyroidism (CKD-related),True kidney,Include,
+kidney,Hyperphosphatemia (CKD-related),True kidney,Include,
+kidney,Hyperkalemia (CKD-related),True kidney,Include,
+kidney,Chronic kidney disease-associated pruritus / uremic pruritus,True kidney,Include,
+kidney,Alport syndrome,True kidney,Include,
+kidney,Nephropathic cystinosis,True kidney,Include,
+kidney,APOL1-mediated kidney disease,True kidney,Include,
+kidney,Primary hyperoxaluria,True kidney,Include,
+kidney,Hypertensive nephropathy / hypertensive kidney disease,True kidney,Include,
+kidney,Renal impairment / renal dysfunction / kidney impairment,True kidney,Include,
+kidney,Renal insufficiency,True kidney,Include,
+kidney,Carcinoma,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Cancer,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Neoplasm,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Sarcoma,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Lymphoma,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Leukemia,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Melanoma,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Mesothelioma,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Adenocarcinoma,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Myeloma,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Glioma,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Glioblastoma,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Tumor,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Malignant,,Exclude,"Oncology (stem match, out of nephrology drug-pipeline scope)"
+kidney,Urothelial,,Exclude,"Urologic, out of strict nephrology scope per team decision"
+kidney,Bladder,,Exclude,"Urologic, out of strict nephrology scope per team decision"
+kidney,Kidney Stone,,Exclude,"Urologic/mechanical, out of strict nephrology scope per team decision"
+kidney,Nephrolithiasis,,Exclude,"Urologic/mechanical, out of strict nephrology scope per team decision"
+kidney,Urolithiasis,,Exclude,"Urologic/mechanical, out of strict nephrology scope per team decision"
+kidney,Renal Calculi,,Exclude,"Urologic/mechanical, out of strict nephrology scope per team decision"
+kidney,Rheumatoid Arthritis,,Exclude,Unrelated systemic autoimmune condition
+kidney,Multiple Sclerosis,,Exclude,Unrelated systemic condition
+kidney,Psoriasis,,Exclude,Unrelated dermatologic condition
+kidney,Sjogren,,Exclude,Unrelated systemic autoimmune condition
+kidney,Myasthenia Gravis,,Exclude,Unrelated neuromuscular condition
+kidney,Ankylosing Spondylitis,,Exclude,Unrelated systemic autoimmune condition
+kidney,Systemic Sclerosis,,Exclude,"Unrelated systemic condition (general, not renal-crisis specific)"
+kidney,Scleroderma,,Exclude,Unrelated systemic condition
+kidney,COVID,,Exclude,Unrelated infectious disease
+kidney,Migraine,,Exclude,Unrelated neurologic condition
+kidney,Asthma,,Exclude,Unrelated respiratory condition
+kidney,Chronic Obstructive Pulmonary,,Exclude,Unrelated respiratory condition
+kidney,Depression,,Exclude,Unrelated psychiatric condition
+kidney,Epilepsy,,Exclude,Unrelated neurologic condition
+kidney,Healthy Volunteers,,Exclude,Not a disease indication
+kidney,Healthy Participants,,Exclude,Not a disease indication
+kidney,Cardiovascular Disease,,Exclude,"Cardiovascular comorbidity tag, not a renal-specific indication (covered separately in CV pipeline)"
+kidney,Hypertension,,Exclude,"Cardiovascular comorbidity tag, not a renal-specific indication unless explicitly a hypertensive-kidney-disease term"
+kidney,Heart Failure,,Exclude,"Cardiovascular comorbidity tag, not a renal-specific indication (covered separately in CV pipeline)"
+kidney,Atrial Fibrillation,,Exclude,"Cardiovascular comorbidity tag, not a renal-specific indication (covered separately in CV pipeline)"
+kidney,RCC,,Exclude,"Renal Cell Carcinoma abbreviation; oncology, out of nephrology drug-pipeline scope"
+kidney,Fanconi Anemia,,Exclude,Hematologic bone marrow failure disorder; distinct from renal Fanconi syndrome despite similar name
+diabetes,Type 2 diabetes / Type 2 diabetes mellitus / T2DM / Type II diabetes,True diabetes,Include,
+diabetes,Type 1 diabetes / Type 1 diabetes mellitus / T1DM / T1D / Type I diabetes,True diabetes,Include,
+diabetes,Diabetes mellitus (unspecified type),True diabetes,Include,
+diabetes,Gestational diabetes / gestational diabetes mellitus,True diabetes,Include,
+diabetes,Prediabetes / pre-diabetes,True diabetes,Include,
+diabetes,Lipoatrophic diabetes mellitus,True diabetes,Include,
+diabetes,Pancreatogenic diabetes mellitus,True diabetes,Include,
+diabetes,Maternally inherited diabetes and deafness / MIDD,True diabetes,Include,
+diabetes,Latent autoimmune diabetes in adults / LADA,True diabetes,Include,
+diabetes,Insulin resistance syndrome (as a diabetes-spectrum diagnosis),True diabetes,Include,
+diabetes,Retinopathy,,Exclude,"Diabetic eye complication, separate scope from core diabetes drug pipeline"
+diabetes,Macular,,Exclude,"Diabetic eye complication, separate scope"
+diabetes,Retinal,,Exclude,"Diabetic eye complication, separate scope"
+diabetes,Glaucoma,,Exclude,Unrelated eye condition
+diabetes,Eye Disease,,Exclude,Unrelated eye condition category
+diabetes,Neuropathy,,Exclude,"Diabetic nerve complication, separate scope from core diabetes drug pipeline"
+diabetes,Neuralgia,,Exclude,"Nerve pain condition, out of scope"
+diabetes,Ulcer,,Exclude,"Diabetic wound/foot complication, separate scope from core diabetes drug pipeline"
+diabetes,Wound,,Exclude,"Wound care, separate scope"
+diabetes,Nephropathy,,Exclude,"Diabetic kidney complication, covered separately in kidney disease pipeline"
+diabetes,Kidney,,Exclude,"Kidney-related, covered separately in kidney disease pipeline"
+diabetes,Renal,,Exclude,"Kidney-related, covered separately in kidney disease pipeline"
+diabetes,CKD,,Exclude,"Kidney-related, covered separately in kidney disease pipeline"
+diabetes,ESRD,,Exclude,"Kidney-related, covered separately in kidney disease pipeline"
+diabetes,Obesity,,Exclude,"Comorbidity/eligibility tag, out of core diabetes drug-pipeline scope per team decision"
+diabetes,Overweight,,Exclude,"Comorbidity/eligibility tag, out of core diabetes drug-pipeline scope per team decision"
+diabetes,Obese,,Exclude,"Comorbidity/eligibility tag, out of core diabetes drug-pipeline scope per team decision"
+diabetes,Cardiovascular,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Heart,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Hypertension,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Hypertensive,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Cardiac,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Cholesterol,,Exclude,"Lipid/cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Dyslipidemia,,Exclude,"Lipid/cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Hyperlipidemia,,Exclude,"Lipid/cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Atherosclerotic,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Coronary,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Angina,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Myocardial,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Ischemic Heart,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Stroke,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Cerebrovascular,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Peripheral Arterial,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Peripheral Artery,,Exclude,"Cardiovascular-related, covered separately in CV disease pipeline"
+diabetes,Carcinoma,,Exclude,"Oncology, out of scope"
+diabetes,Cancer,,Exclude,"Oncology, out of scope"
+diabetes,Neoplasm,,Exclude,"Oncology, out of scope"
+diabetes,Sarcoma,,Exclude,"Oncology, out of scope"
+diabetes,Lymphoma,,Exclude,"Oncology, out of scope"
+diabetes,Leukemia,,Exclude,"Oncology, out of scope"
+diabetes,Melanoma,,Exclude,"Oncology, out of scope"
+diabetes,Tumor,,Exclude,"Oncology, out of scope"
+diabetes,Malignant,,Exclude,"Oncology, out of scope"
+diabetes,Adenocarcinoma,,Exclude,"Oncology, out of scope"
+diabetes,Crohn,,Exclude,Unrelated autoimmune/GI condition
+diabetes,Celiac,,Exclude,Unrelated autoimmune/GI condition
+diabetes,Ulcerative Colitis,,Exclude,Unrelated autoimmune/GI condition
+diabetes,Psoriasis,,Exclude,Unrelated dermatologic/autoimmune condition
+diabetes,Multiple Sclerosis,,Exclude,Unrelated autoimmune condition
+diabetes,Rheumatoid Arthritis,,Exclude,Unrelated autoimmune condition
+diabetes,Ankylosing Spondylitis,,Exclude,Unrelated autoimmune condition
+diabetes,Vitiligo,,Exclude,Unrelated dermatologic/autoimmune condition
+diabetes,Alopecia Areata,,Exclude,Unrelated autoimmune condition
+diabetes,Graves Disease,,Exclude,Unrelated autoimmune/thyroid condition
+diabetes,Sjogren,,Exclude,Unrelated autoimmune condition
+diabetes,Lupus,,Exclude,Unrelated autoimmune condition
+diabetes,Myasthenia Gravis,,Exclude,Unrelated autoimmune condition
+diabetes,Scleroderma,,Exclude,Unrelated autoimmune condition
+diabetes,Vasculitis,,Exclude,Unrelated autoimmune condition
+diabetes,Behcet,,Exclude,Unrelated autoimmune condition
+diabetes,Hashimoto,,Exclude,Unrelated autoimmune/thyroid condition
+diabetes,Polymyalgia Rheumatica,,Exclude,Unrelated autoimmune condition
+diabetes,Pemphigus,,Exclude,Unrelated autoimmune condition
+diabetes,Liver,,Exclude,"Liver-related, covered separately in liver disease pipeline"
+diabetes,NAFLD,,Exclude,"Liver-related, covered separately in liver disease pipeline"
+diabetes,NASH,,Exclude,"Liver-related, covered separately in liver disease pipeline"
+diabetes,MASH,,Exclude,"Liver-related, covered separately in liver disease pipeline"
+diabetes,MASLD,,Exclude,"Liver-related, covered separately in liver disease pipeline"
+diabetes,Hepatitis,,Exclude,"Liver-related, covered separately in liver disease pipeline"
+diabetes,Cirrhosis,,Exclude,"Liver-related, covered separately in liver disease pipeline"
+diabetes,Steatosis,,Exclude,"Liver-related, covered separately in liver disease pipeline"
+diabetes,Fatty Liver,,Exclude,"Liver-related, covered separately in liver disease pipeline"
+diabetes,COVID,,Exclude,Unrelated infectious disease
+diabetes,Influenza,,Exclude,Unrelated infectious disease
+diabetes,Pneumonia,,Exclude,Unrelated infectious disease
+diabetes,Herpes,,Exclude,Unrelated infectious disease
+diabetes,Bronchitis,,Exclude,Unrelated infectious/respiratory disease
+diabetes,Urinary Tract Infection,,Exclude,Unrelated infectious disease
+diabetes,Healthy Volunteers,,Exclude,Not a disease indication
+diabetes,Healthy Participants,,Exclude,Not a disease indication
+diabetes,Healthy Subjects,,Exclude,Not a disease indication
+diabetes,Depression,,Exclude,Unrelated psychiatric condition
+diabetes,Anxiety,,Exclude,Unrelated psychiatric condition
+diabetes,Schizophrenia,,Exclude,Unrelated psychiatric condition
+diabetes,Dementia,,Exclude,Unrelated neurologic condition
+diabetes,Alzheimer,,Exclude,Unrelated neurologic condition
+diabetes,Parkinson,,Exclude,Unrelated neurologic condition
+diabetes,Preeclampsia,,Exclude,Pregnancy complication distinct from gestational diabetes
+diabetes,Preterm,,Exclude,Pregnancy complication distinct from gestational diabetes
+diabetes,HELLP,,Exclude,Pregnancy complication distinct from gestational diabetes
+diabetes,Intrauterine Growth Restriction,,Exclude,Pregnancy complication distinct from gestational diabetes
+diabetes,Fibromyalgia,,Exclude,Unrelated chronic pain condition
+diabetes,Migraine,,Exclude,Unrelated neurologic condition
+diabetes,Headache,,Exclude,Unrelated neurologic condition
+diabetes,Obstructive Sleep Apnea,,Exclude,Unrelated respiratory/sleep condition
+diabetes,Asthma,,Exclude,Unrelated respiratory condition
+diabetes,Chronic Obstructive Pulmonary,,Exclude,Unrelated respiratory condition
+diabetes,Osteoarthritis,,Exclude,Unrelated musculoskeletal condition
+diabetes,Osteoporosis,,Exclude,Unrelated musculoskeletal condition
+diabetes,Epilepsy,,Exclude,Unrelated neurologic condition
+diabetes,Menopause,,Exclude,"Unrelated endocrine/hormonal condition, distinct from diabetes"
+diabetes,Diabetes Insipidus,,Exclude,Unrelated water-regulation/hormone disorder despite the name; not a form of diabetes mellitus
+diabetes,Diabetic Foot,,Exclude,"Diabetic complication (foot), separate scope from core diabetes drug pipeline per team decision"
+diabetes,Diabetic ketoacidosis / DKA,True diabetes,Include,
+liver,Hepatocellular carcinoma / liver cancer / HCC,True liver,Include,
+liver,Cholangiocarcinoma / biliary tract cancer,True liver,Include,
+liver,NASH / nonalcoholic steatohepatitis / non-alcoholic steatohepatitis,True liver,Include,
+liver,NAFLD / nonalcoholic fatty liver disease / non-alcoholic fatty liver disease / fatty liver,True liver,Include,
+liver,MASLD / metabolic dysfunction-associated steatotic liver disease,True liver,Include,
+liver,MASH / metabolic dysfunction-associated steatohepatitis,True liver,Include,
+liver,Hepatitis B / chronic hepatitis B / hepatitis B virus infection,True liver,Include,
+liver,Hepatitis C,True liver,Include,
+liver,Hepatitis D / chronic hepatitis D,True liver,Include,
+liver,Cirrhosis / liver cirrhosis,True liver,Include,
+liver,Primary biliary cholangitis,True liver,Include,
+liver,Autoimmune hepatitis,True liver,Include,
+liver,Alpha 1-antitrypsin deficiency / alpha1-antitrypsin deficiency,True liver,Include,
+liver,Wilson disease / Wilson's disease,True liver,Include,
+liver,Liver disease / liver diseases / chronic liver disease / liver failure / liver fibrosis,True liver,Include,
+liver,Hepatic impairment / hepatic insufficiency,True liver,Include,
+liver,Metastatic hepatocellular carcinoma,"True liver (advanced primary liver cancer, not metastasis-to-liver)",Include,
+liver,Metastatic liver cancer,"True liver (advanced primary liver cancer, not metastasis-to-liver)",Include,
+liver,Liver Metastases,,Exclude,Cancer that spread TO the liver from another primary site; distinct from primary liver cancer per team decision
+liver,Colorectal Cancer,,Exclude,Unrelated oncology (PK/dosing study in hepatic-impairment patients)
+liver,Gastric Cancer,,Exclude,Unrelated oncology
+liver,Melanoma,,Exclude,Unrelated oncology
+liver,Ovarian Cancer,,Exclude,Unrelated oncology
+liver,Breast Cancer,,Exclude,Unrelated oncology
+liver,Triple Negative Breast Cancer,,Exclude,Unrelated oncology
+liver,Bladder Cancer,,Exclude,Unrelated oncology
+liver,Urothelial Carcinoma,,Exclude,Unrelated oncology
+liver,Renal Cell Carcinoma,,Exclude,Unrelated oncology
+liver,RCC,,Exclude,Renal Cell Carcinoma abbreviation; unrelated oncology
+liver,Kidney Cancer,,Exclude,"Unrelated oncology, covered separately in kidney disease pipeline scope"
+liver,Prostate Cancer,,Exclude,Unrelated oncology
+liver,Esophageal Cancer,,Exclude,Unrelated oncology
+liver,Esophageal Squamous Cell Carcinoma,,Exclude,Unrelated oncology
+liver,Head and Neck Cancer,,Exclude,Unrelated oncology
+liver,Head and Neck Squamous Cell Carcinoma,,Exclude,Unrelated oncology
+liver,Squamous Cell Carcinoma of Head and Neck,,Exclude,Unrelated oncology
+liver,Cervical Cancer,,Exclude,Unrelated oncology
+liver,Lung Cancer,,Exclude,Unrelated oncology
+liver,Non Small Cell Lung Cancer,,Exclude,Unrelated oncology
+liver,Non-small Cell Lung Cancer,,Exclude,Unrelated oncology
+liver,Non-Small Cell Lung Cancer,,Exclude,Unrelated oncology
+liver,Small Cell Lung Cancer,,Exclude,Unrelated oncology
+liver,Small-cell Lung Cancer,,Exclude,Unrelated oncology
+liver,Endometrial Cancer,,Exclude,Unrelated oncology
+liver,Sarcoma,,Exclude,Unrelated oncology
+liver,Mesothelioma,,Exclude,Unrelated oncology
+liver,Metastatic Cancer,,Exclude,Unrelated oncology (unspecified primary)
+liver,Solid Tumor,,Exclude,"Unrelated oncology (unspecified primary, PK/dosing study)"
+liver,Solid Tumors,,Exclude,"Unrelated oncology (unspecified primary, PK/dosing study)"
+liver,Advanced Solid Tumor,,Exclude,"Unrelated oncology (unspecified primary, PK/dosing study)"
+liver,Pancreatic Cancer,,Exclude,Unrelated oncology
+liver,Pancreatic Ductal Adenocarcinoma,,Exclude,Unrelated oncology
+liver,Diphtheria,,Exclude,Unrelated infectious disease (combination vaccine trial artifact)
+liver,Tetanus,,Exclude,Unrelated infectious disease (combination vaccine trial artifact)
+liver,Obesity,,Exclude,"Comorbidity/eligibility tag, out of scope per team precedent"
+liver,Overweight,,Exclude,"Comorbidity/eligibility tag, out of scope per team precedent"
+liver,Diabetes,,Exclude,"Comorbidity/eligibility tag, covered separately in diabetes disease pipeline"
+liver,Healthy Volunteers,,Exclude,Not a disease indication
+liver,Healthy Participants,,Exclude,Not a disease indication
+liver,Alagille Syndrome,,Exclude,Excluded from true_liver per team decision
+liver,Erythropoietic Protoporphyria,,Exclude,Excluded from true_liver per team decision
+liver,X-Linked Protoporphyria,,Exclude,Excluded from true_liver per team decision
+obesity,Obesity / overweight / obese (all combinations),True obesity,Include,
+obesity,Weight management / weight loss / weight gain / chronic weight management / body weight,True obesity,Include,
+obesity,Prader-Willi syndrome,True obesity,Include,
+obesity,POMC deficiency obesity,True obesity,Include,
+obesity,PCSK1 deficiency obesity,True obesity,Include,
+obesity,LEPR deficiency obesity,True obesity,Include,
+obesity,Bardet-Biedl syndrome,True obesity,Include,
+obesity,Hypothalamic obesity,True obesity,Include,
+obesity,Genetic obesity,True obesity,Include,
+obesity,Hyperphagia,True obesity,Include,
+obesity,Abdominal obesity,True obesity,Include,
+obesity,Type 2 Diabetes,,Exclude,"Comorbidity tag, covered separately in diabetes disease pipeline per team decision"
+obesity,Diabetes Mellitus,,Exclude,"Comorbidity tag, covered separately in diabetes disease pipeline per team decision"
+obesity,T2DM,,Exclude,"Comorbidity tag, covered separately in diabetes disease pipeline per team decision"
+obesity,Type 1 Diabetes,,Exclude,"Comorbidity tag, covered separately in diabetes disease pipeline per team decision"
+obesity,Type2diabetes,,Exclude,"Comorbidity tag, covered separately in diabetes disease pipeline per team decision"
+obesity,Type2 Diabetes,,Exclude,"Comorbidity tag, covered separately in diabetes disease pipeline per team decision"
+obesity,Diabete Type 2,,Exclude,"Comorbidity tag, covered separately in diabetes disease pipeline per team decision"
+obesity,Prediabetes,,Exclude,"Comorbidity tag, covered separately in diabetes disease pipeline per team decision"
+obesity,Insulin Resistance,,Exclude,"Comorbidity tag, covered separately in diabetes disease pipeline per team decision"
+obesity,Diabetes,,Exclude,"Comorbidity tag, covered separately in diabetes disease pipeline per team decision"
+obesity,Cardiovascular Diseases,,Exclude,"Comorbidity, covered separately in cardiovascular disease pipeline per team decision"
+obesity,Hypertension,,Exclude,"Comorbidity, covered separately in cardiovascular disease pipeline per team decision"
+obesity,Heart Failure,,Exclude,"Comorbidity, covered separately in cardiovascular disease pipeline per team decision"
+obesity,Atherosclerotic Cardiovascular Disease,,Exclude,"Comorbidity, covered separately in cardiovascular disease pipeline per team decision"
+obesity,Chronic Kidney Disease,,Exclude,"Comorbidity, covered separately in kidney disease pipeline per team decision"
+obesity,NAFLD,,Exclude,"Comorbidity, covered separately in liver disease pipeline per team decision"
+obesity,Non-alcoholic Fatty Liver Disease,,Exclude,"Comorbidity, covered separately in liver disease pipeline per team decision"
+obesity,Non-Alcoholic Fatty Liver Disease,,Exclude,"Comorbidity, covered separately in liver disease pipeline per team decision"
+obesity,NASH,,Exclude,"Comorbidity, covered separately in liver disease pipeline per team decision"
+obesity,Nonalcoholic Steatohepatitis,,Exclude,"Comorbidity, covered separately in liver disease pipeline per team decision"
+obesity,MASLD,,Exclude,"Comorbidity, covered separately in liver disease pipeline per team decision"
+obesity,Liver Diseases,,Exclude,"Comorbidity, covered separately in liver disease pipeline per team decision"
+obesity,Obstructive Sleep Apnea,,Exclude,"Comorbidity, out of strict obesity/weight scope per team decision"
+obesity,"Sleep Apnea, Obstructive",,Exclude,"Comorbidity, out of strict obesity/weight scope per team decision"
+obesity,Metabolic Syndrome,,Exclude,"Comorbidity/metabolic cluster, out of strict obesity/weight scope per team decision"
+obesity,Metabolic Disease,,Exclude,"Comorbidity/metabolic cluster, out of strict obesity/weight scope per team decision"
+obesity,Dyslipidemias,,Exclude,"Comorbidity, out of strict obesity/weight scope per team decision"
+obesity,Hyperlipidemia,,Exclude,"Comorbidity, out of strict obesity/weight scope per team decision"
+obesity,"Osteoarthritis, Knee",,Exclude,"Comorbidity, out of strict obesity/weight scope per team decision"
+obesity,Osteo Arthritis Knee,,Exclude,"Comorbidity, out of strict obesity/weight scope per team decision"
+obesity,Sarcopenia,,Exclude,"Comorbidity, out of strict obesity/weight scope per team decision"
+obesity,Ulcerative Colitis,,Exclude,Unrelated autoimmune/GI condition
+obesity,Healthy Volunteers,,Exclude,Not a disease indication
+obesity,Healthy Participants,,Exclude,Not a disease indication
+obesity,Healthy Subjects,,Exclude,Not a disease indication
+obesity,Healthy Volunteer,,Exclude,Not a disease indication
+obesity,Healthy Aging,,Exclude,Not a disease indication
+obesity,Aging,,Exclude,Not a disease indication
+obesity,Pregnancy,,Exclude,Not a disease indication (unrelated eligibility tag)
+autoimmune,Rheumatoid arthritis / RA,True autoimmune,Include,
+autoimmune,"Multiple sclerosis / MS (all subtypes: relapsing-remitting, secondary progressive, primary progressive)",True autoimmune,Include,
+autoimmune,Clinically isolated syndrome (MS precursor),True autoimmune,Include,
+autoimmune,"Systemic lupus erythematosus / SLE (systemic, non-renal-specific)",True autoimmune,Include,
+autoimmune,Myasthenia gravis / generalized myasthenia gravis / gMG,True autoimmune,Include,
+autoimmune,Thyroid eye disease / TED / Graves orbitopathy / Graves ophthalmopathy,True autoimmune,Include,
+autoimmune,Graves disease,True autoimmune,Include,
+autoimmune,Systemic sclerosis / scleroderma / diffuse cutaneous systemic sclerosis,True autoimmune,Include,
+autoimmune,Primary immune thrombocytopenia / immune thrombocytopenia / ITP,True autoimmune,Include,
+autoimmune,Sjogren's syndrome,True autoimmune,Include,
+autoimmune,Ulcerative colitis,True autoimmune,Include,
+autoimmune,Crohn disease / Crohn's disease,True autoimmune,Include,
+autoimmune,Psoriatic arthritis,True autoimmune,Include,
+autoimmune,Ankylosing spondylitis,True autoimmune,Include,
+autoimmune,Idiopathic inflammatory myopathies / inflammatory myopathy / dermatomyositis,True autoimmune,Include,
+autoimmune,Chronic inflammatory demyelinating polyneuropathy / polyradiculoneuropathy / CIDP,True autoimmune,Include,
+autoimmune,Neuromyelitis optica spectrum disorder / NMOSD,True autoimmune,Include,
+autoimmune,Psoriasis,True autoimmune,Include,
+autoimmune,Juvenile idiopathic arthritis,True autoimmune,Include,
+autoimmune,Antiphospholipid syndrome / APS,True autoimmune,Include,
+autoimmune,Bullous pemphigoid,True autoimmune,Include,
+autoimmune,Warm autoimmune hemolytic anemia,True autoimmune,Include,
+autoimmune,Autoimmune encephalitis,True autoimmune,Include,
+autoimmune,Guillain-Barre syndrome,True autoimmune,Include,
+autoimmune,"Type 1 diabetes / Diabetes mellitus, type 1","True autoimmune (also covered in diabetes pipeline, per team decision)",Include,
+autoimmune,Autoimmune hepatitis,"True autoimmune (also covered in liver pipeline, per team decision)",Include,
+autoimmune,Autoimmune diseases / autoimmune disease (generic),True autoimmune,Include,
+autoimmune,Immune system diseases,True autoimmune,Include,
+autoimmune,Vitiligo,True autoimmune,Include,
+autoimmune,Alopecia areata,True autoimmune,Include,
+autoimmune,Celiac disease,True autoimmune,Include,
+autoimmune,Hashimoto's thyroiditis / Hashimoto thyroiditis,True autoimmune,Include,
+autoimmune,Pemphigus,True autoimmune,Include,
+autoimmune,Lupus Nephritis,,Exclude,"Renal manifestation of SLE, covered separately in kidney disease pipeline per team decision"
+autoimmune,IgA Nephropathy,,Exclude,Covered separately in kidney disease pipeline per team decision
+autoimmune,Immunoglobulin A Nephropathy,,Exclude,Covered separately in kidney disease pipeline per team decision
+autoimmune,IgAN,,Exclude,Covered separately in kidney disease pipeline per team decision
+autoimmune,Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis,,Exclude,Covered separately in kidney disease pipeline per team decision
+autoimmune,ANCA-Associated Vasculitis,,Exclude,Covered separately in kidney disease pipeline per team decision
+autoimmune,Eosinophilic Granulomatosis With Polyangiitis,,Exclude,"ANCA-associated vasculitis subtype, covered separately in kidney disease pipeline"
+autoimmune,Membranous Nephropathy,,Exclude,Covered separately in kidney disease pipeline per team decision
+autoimmune,Focal Segmental Glomerulosclerosis,,Exclude,Covered separately in kidney disease pipeline per team decision
+autoimmune,"Diabetes Mellitus, Type 2",,Exclude,Not autoimmune-mediated; also covered separately in diabetes disease pipeline
+autoimmune,Type 2 Diabetes,,Exclude,Not autoimmune-mediated; also covered separately in diabetes disease pipeline
+autoimmune,Healthy Volunteers,,Exclude,Not a disease indication
+autoimmune,Healthy Participants,,Exclude,Not a disease indication
+autoimmune,Stroke,,Exclude,"Unrelated cardiovascular condition, covered separately in CV disease pipeline"
+autoimmune,Osteoarthritis,,Exclude,"Degenerative joint disease, not autoimmune (distinct from Rheumatoid Arthritis)"
+autoimmune,Avascular Necrosis,,Exclude,Bone death from non-autoimmune causes
+autoimmune,Traumatic Arthritis,,Exclude,"Injury-related, not autoimmune"
+autoimmune,Cerebral Palsy,,Exclude,Unrelated neurodevelopmental condition
+rare_disease,Rare disease / rare diseases (generic),True rare disease,Include,
+rare_disease,Amyotrophic lateral sclerosis / ALS,True rare disease,Include,
+rare_disease,Huntington disease / Huntington's disease,True rare disease,Include,
+rare_disease,Pulmonary arterial hypertension / PAH,True rare disease,Include,
+rare_disease,Fabry disease (including cardiac variant),True rare disease,Include,
+rare_disease,Phenylketonuria / PKU,True rare disease,Include,
+rare_disease,Barth syndrome,True rare disease,Include,
+rare_disease,GM1 gangliosidosis,True rare disease,Include,
+rare_disease,Pompe disease,True rare disease,Include,
+rare_disease,Fragile X syndrome / FXS,True rare disease,Include,
+rare_disease,Hidradenitis suppurativa / HS,True rare disease,Include,
+rare_disease,Focal segmental glomerulosclerosis / FSGS,True rare disease,Include,
+rare_disease,Immunoglobulin A nephropathy / IgA nephropathy,True rare disease,Include,
+rare_disease,Bardet-Biedl syndrome,True rare disease,Include,
+rare_disease,POMC deficiency obesity / PCSK1 deficiency obesity / LEPR deficiency obesity,True rare disease,Include,
+rare_disease,Globoid cell leukodystrophy / Krabbe disease,True rare disease,Include,
+rare_disease,Canavan disease,True rare disease,Include,
+rare_disease,Choroideremia,True rare disease,Include,
+rare_disease,Langerhans cell histiocytosis / LCH,True rare disease,Include,
+rare_disease,Erdheim-Chester disease / ECD,True rare disease,Include,
+rare_disease,Idiopathic pulmonary fibrosis / IPF,True rare disease,Include,
+rare_disease,Waldenstrom macroglobulinemia,True rare disease,Include,
+rare_disease,Richter transformation,True rare disease,Include,
+rare_disease,Burkitt lymphoma,True rare disease,Include,
+rare_disease,Hairy cell leukemia,True rare disease,Include,
+rare_disease,Bullous pemphigoid,True rare disease,Include,
+rare_disease,Mitochondrial diseases,True rare disease,Include,
+rare_disease,Autoimmune hepatitis,True rare disease,Include,
+rare_disease,Hemophilia B,True rare disease,Include,
+rare_disease,Mucopolysaccharidosis I / MPS I,True rare disease,Include,
+rare_disease,Mucopolysaccharidosis II / MPS II,True rare disease,Include,
+rare_disease,Hereditary transthyretin-mediated amyloidosis / hATTR,True rare disease,Include,
+rare_disease,Tay-Sachs disease,True rare disease,Include,
+rare_disease,Sandhoff disease,True rare disease,Include,
+rare_disease,EGFR exon 20 insertion mutation NSCLC (specific rare biomarker subtype),True rare disease,Include,
+rare_disease,BRAF V600E mutation-positive solid tumors (specific rare biomarker subtype),True rare disease,Include,
+rare_disease,Non-small Cell Lung Cancer,,Exclude,Generic/common cancer type (not itself rare); specific rare mutation subtypes stay included separately
+rare_disease,NSCLC,,Exclude,Generic/common cancer type (not itself rare); specific rare mutation subtypes stay included separately
+rare_disease,Lung Cancer,,Exclude,"Generic/common cancer type, not itself rare"
+rare_disease,Ovarian Cancer,,Exclude,"Generic/common cancer type, not itself rare"
+rare_disease,Lymphoma,,Exclude,Generic cancer category (not itself rare); specific rare lymphoma subtypes stay included separately
+rare_disease,Leukemia,,Exclude,Generic cancer category (not itself rare); specific rare leukemia subtypes stay included separately
+rare_disease,Hematologic Malignancy,,Exclude,"Generic cancer category, not itself rare"
+rare_disease,Solid Advanced Tumor,,Exclude,"Generic/unspecified tumor category, not itself rare"
+rare_disease,Unknown Primary Tumors,,Exclude,"Generic/unspecified tumor category, not itself rare"
+rare_disease,Plaque Psoriasis,,Exclude,Common (non-rare) skin condition
+rare_disease,Pregnancy,,Exclude,Not a disease indication
+rare_disease,Pregnancy Related,,Exclude,Not a disease indication
+rare_disease,Cognitive Dysfunction,,Exclude,Too generic/non-specific to be a rare disease indication on its own
+rare_disease,Healthy Volunteers,,Exclude,Not a disease indication
+rare_disease,Healthy Participants,,Exclude,Not a disease indication
