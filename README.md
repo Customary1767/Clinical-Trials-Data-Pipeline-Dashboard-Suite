@@ -92,4 +92,4 @@ Florida. I hold a BS in Data Analytics (WGU) and a CompTIA Data+ certification. 
 project reflects how I approach data work: grounded in real clinical and operational
 questions, not just technical exercises.
 
-[Full case study on my portfolio site →](#)
+[Full case study on my portfolio site →](http://www.olguyne.com/portfolio/?access_key=x7Qp2-olguyne-resume-9kLm)
