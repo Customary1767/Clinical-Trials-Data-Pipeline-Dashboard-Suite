@@ -42,22 +42,24 @@ from ClinicalTrials.gov for every disease area.
 
 ## Repo Structure
 
-├── trials_pipeline.py # Shared pipeline logic
-│ ├── fetch_trials()
-│ ├── extract_fields()
-│ ├── run_pipeline()
-│ ├── build_include_exclude_patterns()
-│ └── classify()
-├── mesh_include_exclude_dictionary.csv # Disease-area classification terms
+```text
+├── trials_pipeline.py                      # Shared pipeline logic
+│   ├── fetch_trials()
+│   ├── extract_fields()
+│   ├── run_pipeline()
+│   ├── build_include_exclude_patterns()
+│   └── classify()
+├── mesh_include_exclude_dictionary.csv     # Disease-area classification terms
 ├── industry_sponsor_normalization_USABLE_LOOKUP.csv
 ├── notebooks/
-│ ├── fetch_trials.ipynb # Cardiovascular
-│ ├── kidney_trials.ipynb # Kidney
-│ └── ... # Additional disease areas
+│   ├── fetch_trials.ipynb                  # Cardiovascular
+│   ├── kidney_trials.ipynb                 # Kidney
+│   └── ...                                 # Additional disease areas
 ├── data/
-│ ├── sponsor_trial_count_by_disease_area.csv
-│ └── all_disease_areas_combined_for_tableau.csv
-└── dashboards/ # Screenshots / links to published Tableau views
+│   ├── sponsor_trial_count_by_disease_area.csv
+│   └── all_disease_areas_combined_for_tableau.csv
+└── dashboards/                             # Screenshots / links to published Tableau views
+```
 
 
 ## Dashboards
