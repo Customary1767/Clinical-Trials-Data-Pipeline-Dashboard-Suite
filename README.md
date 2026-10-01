@@ -62,8 +62,6 @@ from ClinicalTrials.gov for every disease area.
 
 ## Dashboards
 
-*(Add 2-3 screenshots here, or embed links to published Tableau Public views)*
-
 - **Sponsor Breadth** — bar chart of sponsor activity across disease areas
 - **Sponsor × Disease Area Heatmap** — cross-disease sponsor activity at a glance
 - Single-disease dashboards for cardiovascular and kidney (fully classified)
